@@ -1,2 +1,5 @@
 # FrontEnd-sem1
-primeras practicas de introducción en FrontEnd
+Primeras practicas de introducción en FrontEnd
+
+Autor:Erticka Vite
+27-febrero-2022
